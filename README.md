@@ -14,3 +14,7 @@ The inference code for our model is located in `inference/infer.py`, training da
 python inference/infer.py
 ```
 
+### Models
+
+Model weight files will be made available after the paper is accepted to avoid potential conflicts with anonymity requirements.
+
