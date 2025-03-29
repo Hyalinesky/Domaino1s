@@ -1,0 +1,666 @@
+index,question,answer
+0,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gavin has an insurance policy that includes coverage for ""General Damages,"" which includes losses from ""missed employment due to injuries that occur under regular working conditions.""
+Here is the claim:
+Gavin works as an A/C repair technician in a small town. One day, Gavin is hired to repair an air conditioner located on the second story of a building. Because Gavin is an experienced repairman, he knows that the safest way to access the unit is with a sturdy ladder. While climbing the ladder, Gavin loses his balance and falls, causing significant injury. Because of this, he subsequently has to stop working for weeks. Gavin files a claim with his insurance company for lost income.",A
+1,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Ken's car insurance policy includes coverage for ""Vehicle Fire,"" defined as ""loss or damage to the policy holder's car as a result of fire, lightning or explosion.""
+Here is the claim:
+One day, Ken parks his car next to his home, and while he is out on a jog his neighbor's home catches fire. The fire spreads to Ken's car, which is subsequently destroyed in the blaze. Ken files a claim with his insurance company for the damage.",A
+2,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Martha has an insurance policy that covers accidental damage to her home and belongings from ""Hot Work,"" defined as ""any work that requires, uses or produces any sources of heat that could ignite flammable materials.""
+Here is the claim:
+Martha is installing hardwood flooring in her living room. She uses a heat gun -- a device that emits very hot air -- to help dry the glue that attaches the floorboards. While arranging her floorboards, she sets her heat gun down on her expensive dining room table, which causes the surface of the table to burn but not catch fire. Martha files a claim with her insurance company for the damage.",C
+3,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Beth has home insurance that covers losses from ""Malicious Acts or Vandalism,"" defined as ""costs associated with repairing deliberate damage to the policyholder's property made by an adverse third party.""
+Here is the claim:
+Beth lives in a very quiet neighborhood at the edge of town with her two young children. Upon returning home from work one day,  she sees that an exterior wall of her house is covered with drawings made in permanent marker. She reviews her home surveillance footage and sees that it was her children who drew on the wall. She hires professional painters to paint over the drawing. Beth files a claim with her insurance company for the damages.",B
+4,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Belinda's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Belinda lives in a two-story house with a bathtub on the second floor. One day, Belinda, a sculpture artist, fills the tub with paint in order to dip her sculptures in paint, but the tub suddenly cracks and begins to leak, causing the paint to seep through her floor and damage her walls. Belinda files a claim with her insurance company for the damage.",B
+5,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Justin has insurance that covers ""Trace and Access,"" defined as ""necessary and reasonable costs that you incur in locating and fixing accidental damage to cables or pipes in your home.""
+Here is the claim:
+Justin, a skilled plumber, is repairing his leaky kitchen sink when he accidentally drops his wedding ring down a pipe that leads to the kitchen. In order to access the pipe and retrieve the ring, Justin has to tear out drywall and tear up floorboards. He files a claim with his insurance company for the damage.",C
+6,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Steve's car insurance policy includes coverage for ""Vehicle Damage,"" defined as ""loss or damage to the policy holder's 1) car; or 2) car accessories (while in or on the car).""
+Here is the claim:
+One day, Steve is involved in a minor accident. His GPS navigation system, which was in the car at the time, was damaged. Steve files a claim with his insurance company for the damage.",A
+7,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Genie has home insurance that covers ""Garden Plants"" damage, defined as ""damage to plants, bushes, shrubs and trees within the boundaries of the land belonging to the home caused by civil commotion, strikes, or labor and political disturbances.""
+Here is the claim:
+Genie buys special fertilizer for her garden plants from a hardware store located next door. When the workers of the store go on strike, the store temporarily shuts down due to staff shortages, and Genie decides that it is too inconvenient to buy the fertilizer from another store located slightly further away. Without the fertilizer, the plants die. Genie files a claim with her insurance company for the damage to her plants.",B
+8,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gene's car insurance policy includes coverage for ""Vehicle Fire,"" defined as loss or damage as a result of fire to the policy holder's car or audio equipment (while in or on the car).""
+Here is the claim:
+One day, Gene parks his car next to his home and leaves behind his smartphone, which catches fire later that day due to a defect. Gene notices and manages to extinguish the fire before it totals the car, but not before the fire spreads to a portable Bluetooth speaker that Gene left next to the phone. Gene files a claim with his insurance company for the loss.",C
+9,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Belinda's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Belinda lives in a two-story house with a bathtub on the second floor. One day, Belinda fills the tub with tomato juice to give her dog a bath after being sprayed by a skunk, but the tub suddenly cracks and begins to leak, causing the tomato juice to seep through her floor and damage her walls. Belinda files a claim with her insurance company for the damage.",C
+10,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Vivian has home insurance for ""Loss and Accidental Damage,"" which only applies if the damage occurs ""while temporarily away from home anywhere in the world.""
+Here is the claim:
+Vivian lives alone in a single-family house in the suburbs. She decides to move abroad, but she keeps the deed to her house because she intends to move back one day. While abroad, her house suffers from an electrical short circuit that causes a severe fire, damaging nearly the entire home. Vivian files a claim with her insurance company for the damages.",C
+11,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Vivian has home insurance for ""Loss and Accidental Damage,"" which only applies if the damage occurs ""while temporarily away from home anywhere in the world.""
+Here is the claim:
+Vivian lives alone in a single-family house in the suburbs. She decides to take a vacation abroad, and her house is completely vacant while she's away. While abroad, her house suffers from an electrical short circuit that causes a severe fire, damaging nearly the entire home. Vivian files a claim with her insurance company for the damages.",A
+12,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Clint has home insurance that covers ""Ground Heave"" damage, defined as ""loss or damage resulting from ground heave of the site on which the building stands, or landslip.""
+Here is the claim:
+One day, Clint hears a loud crash in his house and finds that a large tree has fallen on his roof, causing significant damage. Clint files a claim with his insurance company for the damage.",C
+13,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Olivia has home insurance that covers damage from ""Malicious Acts or Vandalism,"" defined as ""actions involving deliberate destruction or damage to the policyholder's property.""
+Here is the claim:
+Olivia lives in a very quiet neighborhood at the edge of town. One day, a group of reckless teenagers crash their car into several bags' worth of garbage in front of Olivia's house while driving almost double the speed limit, littering her property with debris and costing her hundreds of dollars in cleanup expenses. Olivia files a claim with her insurance company for the damages.",C
+14,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Shannon has an insurance policy that covers accidental damage to her home and belongings from ""Hot Work,"" defined as ""any work on her home or belongings that requires, uses or produces any sources of heat that could ignite flammable materials.""
+Here is the claim:
+One day, Shannon is working on her motorcycle in her garage. As she does so, she smokes a cigarette. Suddenly, she drops the lit cigarette onto the floor, igniting a nearby flammable cleaning product and sending her garage up in flames. Shannon files a claim with her insurance company for the damage.",B
+15,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gwen's car insurance policy includes coverage for damages stemming from ""Personal Accident,"" defined as ""accidental injury while traveling in your car.""
+Here is the claim:
+One day, Gwen drives her SUV to the grocery store. While looking for a parking space, she injures her wrist when her SUV collides with another car. This incident ultimately leads to thousands of dollars in medical expenses. Gwen files a claim with her insurance company for the damages.",A
+16,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Penelope's car insurance policy includes coverage for up to three months of lost income stemming from ""Personal Accident,"" defined as ""accidental injury while traveling in or getting into or out of your car, resulting in permanent and total loss of use of one or more limbs.""
+Here is the claim:
+Penelope is a personal trainer, and on weekends she often goes camping. One day, she is injured in a car crash that occurs while she is driving to a campsite. The doctor informs her that after the accident, she will regain full functionality in her left knee if she commits to daily physical therapy for three months. Penelope commits to the recovery program and completely recovers. She then files a claim with her insurance company for three months' worth of lost income.",C
+17,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Ahmad's car insurance policy includes coverage for ""Vehicle Glass"" damage, defined as ""broken glass in the car's windows or windshield.""
+Here is the claim:
+Ahmad drives a convertible Porsche and parks his car one day in an outdoor parking lot. While his car is parked in the lot, a baseball from a nearby little league game hits his car's front windshield. When he returns, he discovers a baseball near the car, and that the windshield appears chipped but otherwise functional and intact. Ahmad files a claim with his insurance company for the damage.",A
+18,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Rebecca has insurance that covers damage from ""Flooding"" to her home, defined as ""an invasion of the property by a large volume of water caused by a rapid build-up from outside the buildings.""
+Here is the claim:
+Rebecca lives in a house situated next to a small creek. The water level of the creek quickly rises over the course of a few hours during a storm, and Rebecca notices that water from the creek has begun to collect in her basement and cause significant damage. Rebecca files a claim with her insurance company for the damage.",A
+19,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Ken's car insurance policy includes coverage for ""Vehicle Fire,"" defined as ""loss or damage to the policy holder's car as a result of fire, lightning or explosion.""
+Here is the claim:
+One day, Ken parks his car next to his home and leaves a smoldering cigarette butt in his car ashtray. The cigarette butt does not catch fire, but it causes significant smoke damage to the car's interior. Ken files a claim with his insurance company for the damage.",B
+20,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jack has insurance coverage against loss and damage from ""Identity Theft,"" which excludes ""identity theft connected with the policyholder's occupation.""
+Here is the claim:
+Jack is a successful business consultant. One day, while Jack is at home, hackers manage to infiltrate the computer network of an upscale restaurant where Jack and his colleagues frequently conduct meetings. The hackers steal Jack's credit card information and make a number of fraudulent purchases in his name. To resolve the fraud, Jack must spend thousands of dollars in legal fees. Jack files a claim with his insurance company for his losses.",C
+21,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Dave has insurance that covers ""Public Liability Property Damages,"" defined as ""the damages that you are legally liable to pay for damage to third party property."" The insurance policy also states that ""we will not pay for your losses if you failed to take reasonable steps to prevent the damage from occurring.""
+Here is the claim:
+One day, Dave is exiting the parking lot of a restaurant. Because he checks his car's manual regularly, he knows his car is a month overdue for scheduled maintenance. However, his brakes fail as he begins to drive, and he collides with the landscaping around the restaurant's property. No one is hurt, but the restaurant successfully sues Dave for the damage, costing Dave thousands of dollars. Dave files a claim with his insurance company for the losses.",C
+22,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Chris's car insurance policy includes coverage for ""Vehicle Damage,"" defined as ""loss or damage to the policy holder's 1) car; or 2) audio equipment (while in the car).""
+Here is the claim:
+One day, Chris is involved in a minor accident. His car stereo system and speakers were damaged. Chris files a claim with his insurance company for the damage.",A
+23,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Rebecca has insurance that covers damage from ""Flooding"" to her home, defined as ""an invasion of the property by a large volume of water caused by a rapid build-up from outside the buildings.""
+Here is the claim:
+Rebecca lives in a house situated next to a small creek. The water level of the creek gradually rises over the course of about a week, and one day Rebecca notices that water from the creek has begun to collect in her basement and cause significant damage. Rebecca files a claim with her insurance company for the damage.",C
+24,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Hunter's car insurance policy includes coverage for ""Vehicle Theft,"" defined as loss or damage as a result of theft to the policy holder's car or car accessories (while in or on the car).""
+Here is the claim:
+Hunter, who lives alone, goes on vacation and leaves his car in his home garage. However, surveillance footage captures a masked assailant breaking into his car and stealing Hunter's very high-end seat covers. Hunter files a claim with his insurance company for the loss.",A
+25,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Tom's home insurance policy includes coverage for ""Wind Damage,"" defined as ""damage from wind speeds with gusts of at least 55 mph.""
+Here is the claim:
+Tom's house is located near a large lake. One day, strong winds in excess of 55mph blow across the lake while Tom is working on his roof, but it's a loud and surprising ring from his cell phone that causes him to drop his heavy toolbox and thereby damage the roof. Tom files a claim with his insurance company for the damage.",B
+26,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gavin has an insurance policy that includes coverage for ""General Damages,"" which includes losses from ""missed employment due to injuries that occur under regular working conditions.""
+Here is the claim:
+Gavin works as an A/C repair technician in a small town. One day, Gavin is off from work and decides to put holiday lights up on his roof. Because Gavin is an experienced repairman, he figures he doesn't need a ladder to get onto his roof and decides to free climb the exterior wall of his house instead. While climbing the wall, Gavin loses his balance and falls, causing significant injury. Because of this, he subsequently has to stop working for weeks. Gavin files a claim with his insurance company for lost income.",B
+27,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Joanne's home insurance covers ""Emergency Damages,"" defined as ""loss or damage to the contents of the policyholder's home caused when first responders force an entry into the policyholder's home because of an emergency or perceived emergency involving the policyholder.""
+Here is the claim:
+Late one night, Joanne hears loud crashing noises coming from another room in her home and knows it is just her two dogs playing together. From her bedroom, she frantically calls the police, who make a forced entry into her home to assess the situation. It turns out that the noises Joanne heard were indeed from her dogs; Joanne just wanted help subduing the dogs. Joanne files a claim with her insurance company for the damage caused by the forced entry.",C
+28,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Mariam has insurance that covers home damage from ""Escape of Oil,"" defined as ""oil leaking from a fixed oil-fired heating installation.""
+Here is the claim:
+Mariam has a portable oil lamp in her living room. One night, the lamp cracks and leaks oil onto the carpet. The oil then seeps into the floor and causes significant damage. Mariam files a claim with her insurance company for the damage.",B
+29,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Salma's home insurance covers ""Emergency Damages,"" defined as ""loss or damage to the contents of the policyholder's home caused when first responders force an entry into the policyholder's home because of an emergency involving the policyholder.""
+Here is the claim:
+Late one night, Salma hears noises coming from another room in her home and believes that a burglar has broken in. From her bedroom, she calls the police, who make a forced entry into her home to assess the situation. It turns out that the noises Salma heard were indeed from a burglar, whom the police promptly arrest. Salma files a claim with her insurance company for the damage caused by the forced entry.",A
+30,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Margot has home insurance that covers ""Garden Plants"" damage, defined as ""damage to plants, bushes, shrubs and trees within the boundaries of the land belonging to the home caused by malicious people or vandals.""
+Here is the claim:
+One day, while Margot is away from her home, her surveillance footage captures masked individuals trampling her plants. Margot files a claim with her insurance company for the loss.",A
+31,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gwen's car insurance policy includes coverage for damages stemming from ""Personal Accident,"" defined as ""accidental injury while traveling in your car.""
+Here is the claim:
+One day, Gwen drives her SUV to the grocery store. After she parks the car, she injures her wrist when she opens her driver-side door into an oncoming car. This incident ultimately leads to thousands of dollars in medical expenses. Gwen files a claim with her insurance company for the damages.",C
+32,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jack has insurance coverage against loss and damage from ""Identity Theft,"" which excludes ""identity theft connected with the policyholder's occupation.""
+Here is the claim:
+Jack is a successful business consultant. One day, while Jack is at home, hackers manage to infiltrate the computer network at Jack's office. The hackers steal Jack's credit card information and make a number of fraudulent purchases in his name. To resolve the fraud, Jack must spend thousands of dollars in legal fees. Jack files a claim with his insurance company for his losses.",C
+33,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Martha has an insurance policy that covers accidental damage to her home and belongings from ""Hot Work,"" defined as ""any work that requires, uses or produces any sources of heat that could ignite flammable materials.""
+Here is the claim:
+Martha is installing hardwood flooring in her living room. She uses a heat gun -- a device that emits very hot air -- to help dry the glue that attaches the floorboards. While arranging her floorboards, she sets her heat gun down on her expensive dining room table, which severely warps the table's surface. Martha files a claim with her insurance company for the damage.",C
+34,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jenny's car insurance policy includes coverage for ""Vehicle Damage,"" which excludes ""loss of or damage to the policyholder's car if, at the time of the incident, it was under the custody or control of anyone with the policyholder's permission who is not covered under the policy.""
+Here is the claim:
+Jenny goes on vacation and leaves her car key with a friend so that the friend can use the car while she is away. One day, while the car is parked on the street outside her friend's house, a utility pole falls unexpectedly and lands on the hood of the car, damaging it severely. Jenny files a claim with her insurance company for the damage.",C
+35,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jett has insurance that covers ""Trace and Access,"" defined as ""necessary and reasonable costs that you incur in locating and fixing accidental damage to cables, pipes, underground drain pipes or tanks providing services to and from your home.""
+Here is the claim:
+Jett discovers that his house's water pressure is very low, and he calls an inspector to survey what may be the issue. Floorboards have to be removed to access the piping. It is then discovered that the water pipes froze in a recent winter storm, causing them to abruptly crack. Jett files a claim with his insurance company for the damage.",A
+36,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Dillon's car insurance policy includes coverage for ""Vehicle Theft,"" which excludes ""loss or damage caused by theft or attempted theft if your car was taken by a member of your family or household, or taken by an employee or ex-employee.""
+Here is the claim:
+Dillon, who has been separated from his wife for over two years, goes to work one day and parks his car in the garage. However, surveillance footage captures his estranged wife breaking into his car and driving away. Dillon files a claim with his insurance company for the loss.",C
+37,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Chris's car insurance policy includes coverage for ""Vehicle Damage,"" defined as ""loss or damage to the policy holder's 1) car; or 2) audio equipment (while in the car).""
+Here is the claim:
+One day, Chris is involved in a minor accident. His work laptop, which was in the car at the time, was damaged. Chris files a claim with his insurance company for the damage.",B
+38,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Charlotte has insurance that covers damage from ""Flooding"" to her home, defined as ""an invasion of the property by a large volume of water caused by a sudden release from outside the buildings.""
+Here is the claim:
+Charlotte lives alone in a one-story home. One day, a car hits a fire hydrant outside her home, causing a large volume of water to suddenly seep into her home. This causes significant water damage to her basement. Charlotte files a claim with her insurance company for the damage.",A
+39,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jenny's car insurance policy includes coverage for ""Vehicle Damage,"" which excludes ""loss of or damage to the policyholder's car if, at the time of the incident, it was under the custody or control of anyone with the policyholder's permission who is not covered under the policy.""
+Here is the claim:
+Jenny goes on vacation and leaves her car key with her neighbor for safe keeping. One day, while the car is parked on the street outside her house, a utility pole falls unexpectedly and lands on the hood of the car, damaging it severely. Jenny files a claim with her insurance company for the damage.",C
+40,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gwen's car insurance policy includes coverage for damages stemming from ""Personal Accident,"" defined as ""accidental injury while traveling in your car.""
+Here is the claim:
+One day, Gwen drives her SUV to the grocery store. After buying groceries, she injures her wrist when she lifts a heavy grocery bag into her car. This incident ultimately leads to thousands of dollars in medical expenses. Gwen files a claim with her insurance company for the damages.",B
+41,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Genie has home insurance that covers ""Garden Plants"" damage, defined as ""damage to plants, bushes, shrubs and trees within the boundaries of the land belonging to the home caused by civil commotion, strikes, or labor and political disturbances.""
+Here is the claim:
+Genie buys special fertilizer for her garden plants from a hardware store located next door. When the workers of the store go on strike, they start picketing outside, and some of their picketing activities spill over to Genie's property. When the strikers inadvertently walk on Genie's plants, the plants die. Genie files a claim with her insurance company for the damage to her plants.",A
+42,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Miranda's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Miranda lives in a two-story house, and she has a large plastic water cooler on the upper floor. One day, the cooler begins to leak unexpectedly, causing water to seep through her floor and damage her walls. Miranda files a claim with her insurance company for the damage.",C
+43,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Martha has an insurance policy that covers accidental damage to her home and belongings from ""Hot Work,"" defined as ""any work that requires, uses or produces any sources of heat that could ignite flammable materials.""
+Here is the claim:
+Martha is installing hardwood flooring in her living room. She uses a heat gun -- a device that emits very hot air -- to help dry the glue that attaches the floorboards. While arranging her floorboards, she sets her heat gun down on her expensive dining room table, which causes the table to catch fire. Martha files a claim with her insurance company for the damage.",A
+44,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Carol's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Carol's bathroom wall has become severely damaged due to a pipe that suddenly burst. Carol files a claim with her insurance company for the damage to her wall.",A
+45,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Cam's home insurance policy includes coverage for ""Storm Damage,"" defined as ""damage caused by a storm.""
+Here is the claim:
+One day, a lightning storm passes through Cam's neighborhood and lightning hits his street's power line, causing a power surge. The power surge causes the space heater in Cam's attic to catch fire, and almost all of his roof burns before firefighters manage to extinguish it. Cam files a claim with his insurance company for the damage.",C
+46,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Fatema's home insurance covers ""Fire"" damage, defined as ""damage to the policyholder's property caused by naturally-occurring fire.""
+Here is the claim:
+Fatema keeps a gas-powered grill next to her garage. One day, she uses the grill and leaves it briefly unattended. While she's away, a defect in the grill causes its propane tank to explode, which in turn causes her garage to go up in flames. Fatema files a claim with her insurance company for the damage to the garage.",C
+47,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Penelope's car insurance policy includes coverage for up to three months of lost income stemming from ""Personal Accident,"" defined as ""accidental injury while traveling in or getting into or out of your car, resulting in permanent and total loss of use of one or more limbs.""
+Here is the claim:
+Penelope is a personal trainer, and on weekends she often goes camping. One day, she is injured in a car crash that occurs while she is driving to a campsite. The doctor informs her that after the accident, she will never regain functionality in her left knee, even with daily physical therapy. Penelope undergoes several months of physical therapy, but her knee makes no recovery. She then files a claim with her insurance company for three months' worth of lost income.",A
+48,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Justin has insurance that covers ""Trace and Access,"" defined as ""necessary and reasonable costs that you incur in locating and fixing accidental damage to cables or pipes in your home.""
+Here is the claim:
+Justin, a skilled plumber, is repairing his leaky kitchen sink when he notices more extensive damage to a pipe that leads to the kitchen. In order to access and repair the damaged pipe, Justin has to tear out drywall and tear up floorboards. He files a claim with his insurance company for the damage.",C
+49,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Cooper's car insurance policy includes coverage for ""Vehicle Theft,"" which applies only if ""the policyholder's car contains a working GPS tracking device.""
+Here is the claim:
+Cooper, who keeps a GPS tracking device in his car, goes on vacation and leaves his car in his home garage. However, surveillance footage captures a masked assailant breaking into his car and driving away. Cooper files a claim with his insurance company for the loss.",A
+50,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gisele's car insurance policy includes coverage for ""Vehicle Theft,"" defined as loss or damage as a result of theft to the policy holder's car or audio equipment (while in or on the car).""
+Here is the claim:
+Gisele, who lives alone, goes on vacation and leaves her car in her home garage. However, surveillance footage captures a masked assailant breaking into Gisele's car and stealing her wireless Bluetooth headset. Gisele files a police report and a claim with her insurance company for her loss.",A
+51,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Shannon has an insurance policy that covers accidental damage to her home and belongings from ""Hot Work,"" defined as ""any work on her home or belongings that requires, uses or produces any sources of heat that could ignite flammable materials.""
+Here is the claim:
+One day, Shannon is working on her motorcycle in her garage. To repair her motorcycle, she uses a welding tool which produces a sizable flame. Suddenly, she drops the tool onto the floor, igniting a nearby flammable cleaning product and sending her garage up in flames. Shannon files a claim with her insurance company for the damage.",A
+52,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Fatema's home insurance covers ""Fire"" damage, defined as ""damage to the policyholder's property caused by naturally-occurring fire.""
+Here is the claim:
+Fatema keeps a gas-powered grill next to her garage. One day, she uses the grill and leaves it briefly unattended. While she's away, a quick-moving brush fire spreads to her property, causing her garage to go up in flames before spreading to the grill and causing its propane tank to explode. Fatema files a claim with her insurance company for the damage to the garage.",A
+53,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+James' car insurance policy includes coverage for ""Vehicle Damage,"" defined as  ""damage to the policy holder's 1) car; or 2) car accessories, including children's car seats (while in or on the car).""
+Here is the claim:
+James is about to head out for work when he realizes he needs to clean out his car since he'll be taking some colleagues to lunch. He removes his child's car seat and places it on the trunk of the car. He heads back into his house to grab something he forgot, and he returns to find that the car seat has been stolen. James files a claim with his insurance company for the loss.",C
+54,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jason has insurance coverage against loss and damage from ""Identity Theft,"" which excludes ""identity theft connected with the policyholder's business.""
+Here is the claim:
+Jason is a successful car salesman. One day, while Jason is at home, hackers manage to infiltrate the computer network at Jason's car dealership. The hackers steal Jason's social security number and open a number of fraudulent lines of credit in his name. To resolve the fraud, Jason must spend thousands of dollars in legal fees. Jason files a claim with his insurance company for his losses.",C
+55,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Steve's car insurance policy includes coverage for ""Vehicle Damage,"" defined as ""loss or damage to the policy holder's 1) car; or 2) car accessories (while in or on the car).""
+Here is the claim:
+One day, Steve is involved in a minor accident. His tablet computer, which he uses for navigation and which was in the car at the time, was damaged. Steve files a claim with his insurance company for the damage.",C
+56,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Carol's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Carol's bathroom wall has become severely damaged due to a pipe that slowly leaked over several days before Carol got around to calling a plumber who could fix the leak. Carol files a claim with her insurance company for the damage to her wall.",C
+57,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Rick's home insurance policy includes coverage for ""Hail Damage,"" defined as ""damage from hail of such intensity that it causes damage to hard surfaces or breaks glass.""
+Here is the claim:
+One day, a hail storm hits Rick's house and causes damage to his roof's clay shingles. Many shingles are chipped and some even develop large cracks, causing the roof to leak. Rick files a claim with his insurance company for the damage.",A
+58,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+John's car insurance policy includes coverage for ""Vehicle Damage,"" which excludes ""loss or damage caused by wear and tear.""
+Here is the claim:
+John takes generally good care of his car, but over the years he has noticed a gradual buildup of rust on his front left wheel. He brings the car to a mechanic to have the wheel replaced. John files a claim with his insurance company for the damage.",B
+59,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Carol's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Carol's bathroom wall has become severely damaged due to a pipe that leaked for several hours before Carol managed to find a plumber who could fix the leak. Carol files a claim with her insurance company for the damage to her wall.",A
+60,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+James' car insurance policy includes coverage for ""Vehicle Damage,"" defined as  ""damage to the policy holder's 1) car; or 2) car accessories, including children's car seats (while in or on the car).""
+Here is the claim:
+James is about to head out for work when he realizes he needs to clean out his car since he'll be taking some colleagues to lunch. He removes his child's car seat and places it on the trunk of the car. James forgets about the car seat and begins to drive away with it still on his car. Shortly thereafter, he gets into an accident. The car seat is severely damaged in the crash. James files a claim with his insurance company for the damage.",C
+61,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jett has insurance that covers ""Trace and Access,"" defined as ""necessary and reasonable costs that you incur in locating and fixing accidental damage to cables, pipes, underground drain pipes or tanks providing services to and from your home.""
+Here is the claim:
+Jett discovers that his house's water pressure is very low, and he calls an inspector to survey what may be the issue. Floorboards have to be removed to access the piping. It is then discovered that the water pipes have cracked over time due to long-term wear, an issue which could have been resolved by the previous inspector. Jett files a claim with his insurance company for the damage. .",C
+62,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Mariam has insurance that covers home damage from ""Escape of Oil,"" defined as ""oil leaking from a fixed oil-fired heating installation.""
+Here is the claim:
+Mariam has a fixed oil-fired heater in her living room. One night, the heater cracks and leaks oil onto the carpet. The oil then seeps into the floor and causes significant damage. Mariam files a claim with her insurance company for the damage.",A
+63,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Dillon's car insurance policy includes coverage for ""Vehicle Theft,"" which excludes ""loss or damage caused by theft or attempted theft if your car was taken by a member of your family or household, or taken by an employee or ex-employee.""
+Here is the claim:
+Dillon, who lives alone, goes on vacation and leaves his car in his home garage. However, surveillance footage captures an unfamiliar man breaking into his car and driving away. Dillon files a claim with his insurance company for the loss.",C
+64,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Mariam has insurance that covers home damage from ""Escape of Oil,"" defined as ""oil leaking from a fixed oil-fired heating installation.""
+Here is the claim:
+Mariam has a wall-mounted oil lamp in her living room. One night, the lamp cracks and leaks oil onto the carpet. The oil then seeps into the floor and causes significant damage. Mariam files a claim with her insurance company for the damage.",C
+65,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+James' car insurance policy includes coverage for ""Vehicle Damage,"" defined as  ""damage to the policy holder's 1) car; or 2) car accessories, including children's car seats (while in or on the car).""
+Here is the claim:
+James is about to head out for work when he realizes he needs to clean out his car since he'll be taking some colleagues to lunch. He removes his child's car seat and places it on the trunk of the car. He heads back into his house to grab something he forgot, and he returns to find that another car has crashed into his parked car. The car seat is severely damaged in the crash. James files a claim with his insurance company for the damage.",A
+66,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Harper's insurance covers damage from ""House Removal,"" which includes ""damage to belongings that occurs while being stored by professional removal contractors.""
+Here is the claim:
+Harper is moving to a new home on the other side of town. Because her old home has already sold and her new home is not yet ready for her to move in, she checks into a hotel and asks her cousin Bill to store some of her belongings at his house. A couple days before she is set to move in, Bill's house floods, which ruins the items that Bill was storing for Harper. Harper files a claim with her insurance company for the damage to her belongings.",B
+67,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Beth has home insurance that covers losses from ""Malicious Acts or Vandalism,"" defined as ""costs associated with repairing deliberate damage to the policyholder's property made by an adverse third party.""
+Here is the claim:
+Beth lives in a very quiet neighborhood at the edge of town with her two young children. Upon returning home from work one day,  she sees that an exterior wall of her house is covered in graffiti. She reviews her home surveillance footage and sees that her estranged young adult son spraypainted the wall. She hires professional painters to paint over the graffiti. Beth files a claim with her insurance company for the damages.",C
+68,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jett has insurance that covers ""Trace and Access,"" defined as ""necessary and reasonable costs that you incur in locating and fixing accidental damage to cables, pipes, underground drain pipes or tanks providing services to and from your home.""
+Here is the claim:
+Jett discovers that his house's water pressure is very low, and he calls an inspector to survey what may be the issue. Floorboards have to be removed to access the piping. It is then discovered that the issue is due to the fact that Jett did an extremely poor job installing the piping. Jett files a claim with his insurance company for the damage.",C
+69,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+John's car insurance policy includes coverage for ""Vehicle Damage,"" which excludes ""loss or damage caused by wear and tear.""
+Here is the claim:
+John takes generally good care of his car, but one day he is involved in a minor accident which knocks his front left wheel out of alignment. He brings his car in to a mechanic to have the wheel re-aligned, but the mechanic tells John that his car will also need substantial repair work because the unaligned wheel has been scraping against the body of the car since the accident. John files a claim with his insurance company for the damage.",C
+70,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Olivia has home insurance that covers damage from ""Malicious Acts or Vandalism,"" defined as ""actions involving deliberate destruction or damage to the policyholder's property.""
+Here is the claim:
+Olivia lives in a very quiet neighborhood at the edge of town. One day, a group of teenagers spread several bags' worth of garbage in front of Olivia's house as a prank, littering her property with debris and costing her hundreds of dollars in cleanup expenses. Olivia files a claim with her insurance company for the damages.",A
+71,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jason has insurance coverage against loss and damage from ""Identity Theft,"" which excludes ""identity theft connected with the policyholder's business.""
+Here is the claim:
+Jason is a successful car salesman. One day, while Jason is at home, hackers manage to infiltrate Jason's work laptop via his home WiFi network. The hackers steal Jason's social security number and open a number of fraudulent lines of credit in his name. To resolve the fraud, Jason must spend thousands of dollars in legal fees. Jason files a claim with his insurance company for his losses.",C
+72,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gisele's car insurance policy includes coverage for ""Vehicle Theft,"" defined as loss or damage as a result of theft to the policy holder's car or audio equipment (while in or on the car).""
+Here is the claim:
+Gisele, who lives alone, goes on vacation and leaves her car in her home garage. However, surveillance footage captures a masked assailant breaking into Gisele's car and stealing her car stereo. Gisele files a claim with her insurance company for the loss.",A
+73,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Clint has home insurance that covers ""Ground Heave"" damage, defined as ""loss or damage resulting from ground heave of the site on which the building stands, or landslip.""
+Here is the claim:
+One day, Clint hears a loud crash in his house and finds that the ground beneath his house has shifted, causing his house's foundation to crack. Clint files a claim with his insurance company for the damage.",A
+74,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Penelope's car insurance policy includes coverage for up to three months of lost income stemming from ""Personal Accident,"" defined as ""accidental injury while traveling in or getting into or out of your car, resulting in permanent and total loss of use of one or more limbs.""
+Here is the claim:
+Penelope is a personal trainer, and on weekends she often goes camping. One day, she is injured in a car crash that occurs while she is driving to a campsite. The doctor informs her that after the accident, she will regain full functionality in her left knee if she commits to expensive physical therapy for three months. Penelope is unable to afford the recovery program, so she never regains use of her knee. She then files a claim with her insurance company for three months' worth of lost income.",C
+75,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Hunter's car insurance policy includes coverage for ""Vehicle Theft,"" defined as loss or damage as a result of theft to the policy holder's car or car accessories (while in or on the car).""
+Here is the claim:
+Hunter, who lives alone, goes on vacation and leaves his car in his home garage. However, surveillance footage captures a masked assailant breaking into his car and stealing a smartphone that Hunter leaves in the car for navigation and to play music. Hunter files a claim with his insurance company for the loss.",C
+76,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Madison has insurance that covers home damage from ""Escape of Oil,"" defined as ""oil leaking from a fixed oil-fired heating installation.""
+Here is the claim:
+As Madison is carrying kerosene oil through her kitchen one afternoon, she slips and spills the oil, damaging her hardwood floors. Madison files a claim with her insurance company for the damage.",B
+77,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Salma's home insurance covers ""Emergency Damages,"" defined as ""loss or damage to the contents of the policyholder's home caused when first responders force an entry into the policyholder's home because of an emergency involving the policyholder.""
+Here is the claim:
+Late one night, Salma hears noises coming from another room in her home and believes that a burglar has broken in. From her bedroom, she calls her friend Sam, an off-duty firefighter, who makes a forced entry into her home to assess the situation. It turns out that the noises Salma heard were indeed from a burglar, whom Sam manages to chase away. Salma files a claim with her insurance company for the damage caused by the forced entry.",C
+78,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Blake has home insurance that covers ""Ground Heave"" damage, defined as ""loss or damage resulting from ground heave of the site on which the building stands, or landslip.""
+Here is the claim:
+One evening, an earthquake erupts near Blake's house. The force of the earthquake causes Blake's house to shake, which damages the house's foundation. Blake files a claim with his insurance company for the damage.",A
+79,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Charlotte has insurance that covers damage from ""Flooding"" to her home, defined as ""an invasion of the property by a large volume of water caused by a sudden release from outside the buildings.""
+Here is the claim:
+Charlotte lives alone in a one-story home. One day, one of the rain barrels that she keeps next to her home begins to leak, causing a large volume of water to suddenly seep into her home. This causes significant water damage to her basement. Charlotte files a claim with her insurance company for the damage.",C
+80,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Peter has insurance that covers ""Loss or Damage to a Goods Carrying Vehicle,"" which includes ""key replacement in the case of theft.""
+Here is the claim:
+As part of his bakery business, Peter owns a van which he uses to make local deliveries. One day, Peter is mugged by an individual who takes the key to the van. Replacing the key costs Peter hundreds of dollars. Peter files a claim with his insurance company for his losses.",A
+81,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Rick's home insurance policy includes coverage for ""Hail Damage,"" defined as ""damage from hail of such intensity that it causes damage to hard surfaces or breaks glass.""
+Here is the claim:
+One day, a hail storm hits Rick's house and causes damage to the plants on his balcony. Many plants lose leaves and some are completely covered in ice, causing them to die. Rick files a claim with his insurance company for the damage.",B
+82,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Justin has insurance that covers ""Trace and Access,"" defined as ""necessary and reasonable costs that you incur in locating and fixing accidental damage to cables or pipes in your home.""
+Here is the claim:
+Justin, a skilled plumber, is repairing his leaky kitchen sink when he inadvertently punctures a pipe that leads to the kitchen. In order to access and repair the damaged pipe, Justin has to tear out drywall and tear up floorboards. He files a claim with his insurance company for the damage.",C
+83,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Miranda's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Miranda lives in a two-story house, and she keeps her pet goldfish in a large glass bowl on the upper floor. One day, the bowl begins to leak unexpectedly, causing water to seep through her floor and damage her walls. Miranda files a claim with her insurance company for the damage.",C
+84,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Hunter's car insurance policy includes coverage for ""Vehicle Theft,"" defined as loss or damage as a result of theft to the policy holder's car or car accessories (while in or on the car).""
+Here is the claim:
+Hunter, who lives alone, goes on vacation and leaves his car in his home garage. However, surveillance footage captures a masked assailant breaking into his car and stealing several hundred dollars in bills that Hunter left in the car. Hunter files a claim with his insurance company for the loss.",C
+85,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Cam's home insurance policy includes coverage for ""Storm Damage,"" defined as ""damage caused by a storm.""
+Here is the claim:
+One day, a lightning storm passes through Cam's neighborhood and lightning hits his roof, causing a fire. Almost all of his roof burns before firefighters manage to extinguish it. Cam files a claim with his insurance company for the damage.",A
+86,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Belinda's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Belinda lives in a two-story house with a bathtub on the second floor. One day, Belinda uses the tub for a bath and fills the tub with water, but the tub suddenly cracks and begins to leak, causing water to seep through her floor and damage her walls. Belinda files a claim with her insurance company for the damage.",A
+87,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Madison has insurance that covers home damage from ""Escape of Oil,"" defined as ""oil leaking from a fixed oil-fired heating installation.""
+Here is the claim:
+As Madison's friend attempts to fix the heater in Madison's kitchen one afternoon, her friend makes a mistake which causes oil to rush out of the heater, damaging her hardwood floors. Madison files a claim with her insurance company for the damage.",C
+88,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Fatema's home insurance covers ""Fire"" damage, defined as ""damage to the policyholder's property caused by naturally-occurring fire.""
+Here is the claim:
+Fatema keeps a gas-powered grill next to her garage. One day, she uses the grill and leaves it briefly unattended. While she's away, burning embers from a nearby quick-moving brush fire make contact with the grill and cause its propane tank to explode, which in turn causes her garage to go up in flames. Fatema files a claim with her insurance company for the damage to the garage.",C
+89,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Joanne's home insurance covers ""Emergency Damages,"" defined as ""loss or damage to the contents of the policyholder's home caused when first responders force an entry into the policyholder's home because of an emergency or perceived emergency involving the policyholder.""
+Here is the claim:
+Late one night, Joanne hears loud crashing noises coming from another room in her home and believes that a burglar has broken in. From her bedroom, she frantically calls the police, who make a forced entry into her home to assess the situation. It turns out that the noises Joanne heard were indeed from a burglar, whom the police promptly arrest. Joanne files a claim with her insurance company for the damage caused by the forced entry.",A
+90,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Genie has home insurance that covers ""Garden Plants"" damage, defined as ""damage to plants, bushes, shrubs and trees within the boundaries of the land belonging to the home caused by civil commotion, strikes, or labor and political disturbances.""
+Here is the claim:
+Genie buys special fertilizer for her garden plants from a hardware store located next door. When the workers of the store go on strike, the store temporarily shuts down due to staff shortages, and Genie is unable to find the fertilizer within driving distance from her home or online. Without the fertilizer, the plants die. Genie files a claim with her insurance company for the damage to her plants.",C
+91,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Dillon's car insurance policy includes coverage for ""Vehicle Theft,"" which excludes ""loss or damage caused by theft or attempted theft if your car was taken by a member of your family or household, or taken by an employee or ex-employee.""
+Here is the claim:
+Dillon, who employs a part-time personal assistant, goes on vacation and leaves his car in his home garage. However, surveillance footage captures his personal assistant breaking into his car and driving away. Dillon files a claim with his insurance company for the loss.",C
+92,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Vivian has home insurance for ""Loss and Accidental Damage,"" which only applies if the damage occurs ""while temporarily away from home anywhere in the world.""
+Here is the claim:
+Vivian lives alone in a single-family house in the suburbs. She decides to permanently move abroad, but she keeps the deed to her house so that her children can inherit it one day. While abroad, her house suffers from an electrical short circuit that causes a severe fire, damaging nearly the entire home. Vivian files a claim with her insurance company for the damages.",B
+93,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+John's car insurance policy includes coverage for ""Vehicle Damage,"" which excludes ""loss or damage caused by wear and tear.""
+Here is the claim:
+John takes generally good care of his car, but one day he is involved in a minor accident which damages his front left wheel. He brings the car to a mechanic to have the wheel replaced. John files a claim with his insurance company for the damage.",C
+94,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Blake has home insurance that covers ""Ground Heave"" damage, defined as ""loss or damage resulting from ground heave of the site on which the building stands, or landslip.""
+Here is the claim:
+One evening, several of Blake's friends crowd into his house for a dance party. The many rambunctious dancers cause Blake's house to shake, which damages the house's foundation. Blake files a claim with his insurance company for the damage.",B
+95,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Ken's car insurance policy includes coverage for ""Vehicle Fire,"" defined as ""loss or damage to the policy holder's car as a result of fire, lightning or explosion.""
+Here is the claim:
+One day, Ken parks his car next to his home and leaves behind his smartphone, which catches fire later that day due to a defect. The fire does not spread to the rest of the car, but it causes significant smoke damage to the car's interior. Ken files a claim with his insurance company for the damage.",C
+96,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gene's car insurance policy includes coverage for ""Vehicle Fire,"" defined as loss or damage as a result of fire to the policy holder's car or audio equipment (while in or on the car).""
+Here is the claim:
+One day, Gene parks his car next to his home and leaves behind his smartphone, which catches fire later that day due to a defect. Gene notices and manages to extinguish the fire before it totals the car, but not before the fire spreads to one of his car's stereo speakers, which was adjacent to the phone.  Gene files a claim with his insurance company for the loss.",C
+97,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jack has insurance coverage against loss and damage from ""Identity Theft,"" which excludes ""identity theft connected with the policyholder's occupation.""
+Here is the claim:
+Jack is a successful business consultant. One day, while Jack is at home, hackers manage to infiltrate Jack's home WiFi network. The hackers steal Jack's credit card information and make a number of fraudulent purchases in his name. To resolve the fraud, Jack must spend thousands of dollars in legal fees. Jack files a claim with his insurance company for his losses.",A
+98,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Peter has insurance that covers ""Loss or Damage to a Goods Carrying Vehicle,"" which includes ""key replacement in the case of theft.""
+Here is the claim:
+As part of his bakery business, Peter owns a van which he uses to make local deliveries. One day, Peter realizes he has lost the key to the van. Replacing the key costs Peter hundreds of dollars. Peter files a claim with his insurance company for his losses.",C
+99,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Denise's insurance covers damage from ""House Removal,"" defined as ""damage to belongings caused while being removed by professional removal contractors from the home.""
+Here is the claim:
+Denise is moving to a new home on the other side of town. She pays a professional moving company to move her belongings out of her current home. During the move, the moving truck is involved in a minor accident that damages several pieces of her furniture and other belongings. Denise files a claim with her insurance company for the damage to her belongings.",A
+100,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Olivia has home insurance that covers damage from ""Malicious Acts or Vandalism,"" defined as ""actions involving deliberate destruction or damage to the policyholder's property.""
+Here is the claim:
+Olivia lives in a very quiet neighborhood at the edge of town. One day, a garbage truck accidentally topples over in front of Olivia's house, littering her property with debris and costing her hundreds of dollars in cleanup expenses. Olivia files a claim with her insurance company for the damages.",B
+101,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Tom's home insurance policy includes coverage for ""Wind Damage,"" defined as ""damage from wind speeds with gusts of at least 55 mph.""
+Here is the claim:
+Tom's house is located near a large lake. One day, strong winds in excess of 55mph blow across the lake, causing waves to crash into Tom's house and thereby damaging the roof. Tom files a claim with his insurance company for the damage.",C
+102,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Margot has home insurance that covers ""Garden Plants"" damage, defined as ""damage to plants, bushes, shrubs and trees within the boundaries of the land belonging to the home caused by malicious people or vandals.""
+Here is the claim:
+One day, while Margot is away from her home, her surveillance footage captures a neighbor's middle school-aged children trampling her plants. Margot files a claim with her insurance company for the loss.",A
+103,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Joanne's home insurance covers ""Emergency Damages,"" defined as ""loss or damage to the contents of the policyholder's home caused when first responders force an entry into the policyholder's home because of an emergency or perceived emergency involving the policyholder.""
+Here is the claim:
+Late one night, Joanne hears loud crashing noises coming from another room in her home and believes that a burglar has broken in. From her bedroom, she frantically calls the police, who make a forced entry into her home to assess the situation. It turns out that Joanne is experiencing mild paranoia after having recently watched a movie that involved a home burglary. Joanne files a claim with her insurance company for the damage caused by the forced entry.",C
+104,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Harper's insurance covers damage from ""House Removal,"" which includes ""damage to belongings that occurs while being stored by professional removal contractors.""
+Here is the claim:
+Harper is moving to a new home on the other side of town. Because her old home has already sold and her new home is not yet ready for her to move in, she checks into a hotel and asks her cousin Bill -- who owns a moving company -- to store some of her belongings in his personal office. A couple days before she is set to move in, Bill's office floods, which ruins the items that Bill was storing for Harper. Harper files a claim with her insurance company for the damage to her belongings.",C
+105,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Ahmad's car insurance policy includes coverage for ""Vehicle Glass"" damage, defined as ""broken glass in the car's windows or windshield.""
+Here is the claim:
+Ahmad drives a convertible Porsche and parks his car one day in an outdoor parking lot. While his car is parked in the lot, a baseball from a nearby little league game hits his car's front windshield. When he returns, he discovers the baseball on his windshield, which has been shattered beyond repair. Ahmad files a claim with his insurance company for the damage.",A
+106,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Ahmad's car insurance policy includes coverage for ""Vehicle Glass"" damage, defined as ""broken glass in the car's windows or windshield.""
+Here is the claim:
+Ahmad drives a convertible Porsche and parks his car one day in an outdoor parking lot. While his car is parked in the lot, a baseball from a nearby little league game hits his car's front windshield. When he returns, he discovers a baseball near the car, and that the windshield appears fully intact save for a minor cosmetic scratch. Ahmad files a claim with his insurance company for the damage.",B
+107,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Charlotte has insurance that covers damage from ""Flooding"" to her home, defined as ""an invasion of the property by a large volume of water caused by a sudden release from outside the buildings.""
+Here is the claim:
+Charlotte lives alone in a one-story home. One day, the waterbed in her bedroom begins to leak, causing a large volume of water to suddenly seep through her floors. This causes significant water damage to her basement. Charlotte files a claim with her insurance company for the damage.",B
+108,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Aneesh's car insurance policy includes coverage for ""Vehicle Glass"" damage, defined as ""broken glass, and any scratching to the bodywork caused solely and directly by broken glass.""
+Here is the claim:
+Aneesh drives a convertible Porsche and parks his car one day in an outdoor parking lot. While his car is parked in the lot, a baseball from a nearby little league game hits one of his car's side mirrors. When he returns, he discovers that the side mirror has been severely damaged and that broken shards from the side mirror managed to leave scratches on the car. Aneesh files a claim with his insurance company for the damage.",A
+109,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Cooper's car insurance policy includes coverage for ""Vehicle Theft,"" which applies only if ""the policyholder's car contains a working GPS tracking device.""
+Here is the claim:
+Cooper, who doesn't keep a GPS tracking device in his car, goes on vacation and leaves his car in his home garage. However, surveillance footage captures a masked assailant breaking into his car and driving away. Cooper files a claim with his insurance company for the loss.",B
+110,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Rick's home insurance policy includes coverage for ""Hail Damage,"" defined as ""damage from hail of such intensity that it causes damage to hard surfaces or breaks glass.""
+Here is the claim:
+One day, a hail storm hits Rick's house and causes damage to his skylight window. The window is chipped, but the roof is not leaking. Rick files a claim with his insurance company for the damage.",A
+111,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Shannon has an insurance policy that covers accidental damage to her home and belongings from ""Hot Work,"" defined as ""any work on her home or belongings that requires, uses or produces any sources of heat that could ignite flammable materials.""
+Here is the claim:
+One day, Shannon is working on her motorcycle in her garage. To repair her motorcycle, she uses an air compressor powered by a gasoline engine. Suddenly, the compressor's engine overheats, igniting a nearby flammable cleaning product and sending her garage up in flames. Shannon files a claim with her insurance company for the damage.",A
+112,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Jenny's car insurance policy includes coverage for ""Vehicle Damage,"" which excludes ""loss of or damage to the policyholder's car if, at the time of the incident, it was under the custody or control of anyone with the policyholder's permission who is not covered under the policy.""
+Here is the claim:
+Jenny goes on vacation and leaves her car key in a safe inside her house. One day, while the car is parked on the street outside her house, a utility pole falls unexpectedly and lands on the hood of the car, damaging it severely. Jenny files a claim with her insurance company for the damage.",A
+113,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Margot has home insurance that covers ""Garden Plants"" damage, defined as ""damage to plants, bushes, shrubs and trees within the boundaries of the land belonging to the home caused by malicious people or vandals.""
+Here is the claim:
+One day, while Margot is away from her home, her surveillance footage captures her neighbor's dog trampling her plants. Margot files a claim with her insurance company for the loss.",C
+114,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Cooper's car insurance policy includes coverage for ""Vehicle Theft,"" which applies only if ""the policyholder's car contains a working GPS tracking device.""
+Here is the claim:
+Cooper, who keeps a GPS-tracked smartphone in his car to play music and for navigation, goes on vacation and leaves his car in his home garage. However, surveillance footage captures a masked assailant breaking into his car and driving away. Cooper files a claim with his insurance company for the loss.",C
+115,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Tom's home insurance policy includes coverage for ""Wind Damage,"" defined as ""damage from wind speeds with gusts of at least 55 mph.""
+Here is the claim:
+Tom's house is located near a large lake. One day, strong winds in excess of 55mph blow across the lake and towards Tom's house, damaging the roof. Tom files a claim with his insurance company for the damage.",A
+116,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Aneesh's car insurance policy includes coverage for ""Vehicle Glass"" damage, defined as ""broken glass, and any scratching to the bodywork caused solely and directly by broken glass.""
+Here is the claim:
+Aneesh drives a convertible Porsche and parks his car one day in an outdoor parking lot. While his car is parked in the lot, a baseball from a nearby little league game hits his car's front windshield. When he returns, he discovers that the windshield has been severely damaged and that broken shards from the windshield managed to leave scratches on the car. Aneesh files a claim with his insurance company for the damage.",A
+117,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Steve's car insurance policy includes coverage for ""Vehicle Damage,"" defined as ""loss or damage to the policy holder's 1) car; or 2) car accessories (while in or on the car).""
+Here is the claim:
+One day, Steve is involved in a minor accident. His favorite guitar, which was in the car at the time, was damaged. Steve files a claim with his insurance company for the damage.",B
+118,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gavin has an insurance policy that includes coverage for ""General Damages,"" which includes losses from ""missed employment due to injuries that occur under regular working conditions.""
+Here is the claim:
+Gavin works as an A/C repair technician in a small town. One day, Gavin offers to help his girlfriend repair an air conditioner located on the second story of her home. Because Gavin is an experienced repairman, he knows that the safest way to access the unit is with a sturdy ladder. While climbing the ladder, Gavin loses his balance and falls, causing significant injury. Because of this, he subsequently has to stop working for weeks. Gavin files a claim with his insurance company for lost income.",B
+119,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Beth has home insurance that covers losses from ""Malicious Acts or Vandalism,"" defined as ""costs associated with repairing deliberate damage to the policyholder's property made by an adverse third party.""
+Here is the claim:
+Beth lives in a very quiet neighborhood at the edge of town with her two young children. Upon returning home from work one day,  she sees that an exterior wall of her house is covered in graffiti. She reviews her home surveillance footage and sees that a group of neighborhood teenagers spraypainted the wall. She hires professional painters to paint over the graffiti. Beth files a claim with her insurance company for the damages.",A
+120,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Cam's home insurance policy includes coverage for ""Storm Damage,"" defined as ""damage caused by a storm.""
+Here is the claim:
+One day, a lightning storm passes through Cam's neighborhood and lightning hits his neighborhood's power plant, causing a power outage. Cam goes to his attic with a candle to reset the circuit breaker, but he drops the candle and starts a fire so large that almost all of his roof burns before firefighters manage to extinguish it. Cam files a claim with his insurance company for the damage.",B
+121,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Dave has insurance that covers ""Public Liability Property Damages,"" defined as ""the damages that you are legally liable to pay for damage to third party property."" The insurance policy also states that ""we will not pay for your losses if you failed to take reasonable steps to prevent the damage from occurring.""
+Here is the claim:
+One day, Dave is exiting the parking lot of a restaurant. Because he checks his car's manual regularly, he has just brought his car to a mechanic for scheduled maintenance. However, his brakes fail as he begins to drive, and he collides with the landscaping around the restaurant's property. No one is hurt, but the restaurant successfully sues Dave for the damage, costing Dave thousands of dollars. Dave files a claim with his insurance company for the losses.",A
+122,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gisele's car insurance policy includes coverage for ""Vehicle Theft,"" defined as loss or damage as a result of theft to the policy holder's car or audio equipment (while in or on the car).""
+Here is the claim:
+Gisele, who lives alone, goes on vacation and leaves her car in her home garage. However, surveillance footage captures a masked assailant breaking into Gisele's car and stealing her briefcase, which contained her work laptop. Gisele files a claim with her insurance company for the loss.",B
+123,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Peter has insurance that covers ""Loss or Damage to a Goods Carrying Vehicle,"" which includes ""key replacement in the case of theft.""
+Here is the claim:
+As part of his bakery business, Peter owns a van which he uses to make local deliveries. One day, Peter lends the van to an absent-minded acquaintance, who returns the van but neglects to return the key and does not answer Peter's insistent calls. Replacing the key costs Peter hundreds of dollars. Peter files a claim with his insurance company for his losses.",C
+124,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Blake has home insurance that covers ""Ground Heave"" damage, defined as ""loss or damage resulting from ground heave of the site on which the building stands, or landslip.""
+Here is the claim:
+One evening, two semi trucks collide with one another at high speed outside Blake's house. The impact from the crash causes Blake's house to shake and thereby damages the house's foundation. Blake files a claim with his insurance company for the damage.",C
+125,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Clint has home insurance that covers ""Ground Heave"" damage, defined as ""loss or damage resulting from ground heave of the site on which the building stands, or landslip.""
+Here is the claim:
+One day, Clint hears a loud crash in his house and finds that his roof has partly caved in due to water damage. Clint files a claim with his insurance company for the damage.",B
+126,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Chris's car insurance policy includes coverage for ""Vehicle Damage,"" defined as ""loss or damage to the policy holder's 1) car; or 2) audio equipment (while in the car).""
+Here is the claim:
+One day, Chris is involved in a minor accident. His portable Bluetooth speaker, which was in the car at the time, was damaged. Chris files a claim with his insurance company for the damage.",C
+127,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Salma's home insurance covers ""Emergency Damages,"" defined as ""loss or damage to the contents of the policyholder's home caused when first responders force an entry into the policyholder's home because of an emergency involving the policyholder.""
+Here is the claim:
+Late one night, Salma hears noises coming from another room in her home and believes that a burglar has broken in. From her bedroom, she calls her friend Sam, an accountant, who makes a forced entry into her home to assess the situation. It turns out that the noises Salma heard were indeed from a burglar, whom Sam manages to chase away. Salma files a claim with her insurance company for the damage caused by the forced entry.",B
+128,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Rebecca has insurance that covers damage from ""Flooding"" to her home, defined as ""an invasion of the property by a large volume of water caused by a rapid build-up from outside the buildings.""
+Here is the claim:
+Rebecca lives in a house situated next to a small creek. The water level of the creek gradually rises over the course of several years, and one day Rebecca notices that water from the creek has begun to collect in her basement and cause significant damage. Rebecca files a claim with her insurance company for the damage.",C
+129,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Aneesh's car insurance policy includes coverage for ""Vehicle Glass"" damage, defined as ""broken glass, and any scratching to the bodywork caused solely and directly by broken glass.""
+Here is the claim:
+Aneesh drives a convertible Porsche and parks his car one day in an outdoor parking lot. While his car is parked in the lot, a baseball from a nearby little league game hits his car's front hood. When he returns, he discovers that the hood has been severely damaged. Aneesh files a claim with his insurance company for the damage.",B
+130,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Miranda's home insurance policy includes coverage for ""Escape of Water"" damage, defined as ""damage to buildings and contents caused by a sudden, unforeseen flow of water from an internal source, such as a burst pipe or faulty appliance.""
+Here is the claim:
+Miranda lives in a two-story house, and she has a washing machine on the upper floor. One day, the washing machine begins to leak unexpectedly, causing water to seep through her floor and damage her walls. Miranda files a claim with her insurance company for the damage.",A
+131,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Gene's car insurance policy includes coverage for ""Vehicle Fire,"" defined as loss or damage as a result of fire to the policy holder's car or audio equipment (while in or on the car).""
+Here is the claim:
+One day, Gene parks his car next to his home and leaves behind his smartphone, which catches fire later that day due to a defect. Gene notices and manages to extinguish the fire before it totals the car, but not before the fire destroys several hundred dollars in bills that Gene left next to the phone. Gene files a claim with his insurance company for the loss.",C
+132,"Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It's ambiguous]
+Here is the policy:
+Madison has insurance that covers home damage from ""Escape of Oil,"" defined as ""oil leaking from a fixed oil-fired heating installation.""
+Here is the claim:
+As Madison is walking through her kitchen one afternoon, she notices oil dripping from her heater into a puddle, which is damaging her hardwood floors. Madison files a claim with her insurance company for the damage.",A
