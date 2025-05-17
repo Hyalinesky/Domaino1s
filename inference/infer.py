@@ -8,7 +8,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Model inference arguments')
     
     # Model parameters
-    parser.add_argument('--model_path', type=str, default='checkpoint-merge',
+    parser.add_argument('--model_path', type=str, default='Hyaline/Domaino1s-finance',
                         help='Path to the model')
     parser.add_argument('--device', type=str, default='auto',
                         help='Device to run the model on')
