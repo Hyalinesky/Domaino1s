@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://arxiv.org/abs/2501.14431">Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains</a></h1>
 
 <h5 align="center"><p>This is the project of Domaino1s.</h5>
-<h5 align="center"><p>🎉🎉 Our paper was accepted as a Findings of ACL 2025.</h5>
+<h5 align="center"><p>🎉🎉 Our paper was accepted as Findings of ACL 2025.</h5>
 
 ## Abstract
 
