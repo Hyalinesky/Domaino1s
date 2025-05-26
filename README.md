@@ -34,3 +34,15 @@ python inference/infer.py
 
 We utilized the open-source project [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main) to train our model and express our gratitude for their outstanding work.
 
+## Citation
+If you find our work helpful, feel free to give us a cite.
+
+```
+@article{chu2025domaino1s,
+  title={Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains},
+  author={Chu, Xu and Tan, Zhijie and Xue, Hanlin and Wang, Guanyu and Mo, Tong and Li, Weiping},
+  journal={arXiv preprint arXiv:2501.14431},
+  year={2025}
+}
+```
+
