@@ -21,7 +21,7 @@ You can download our model from huggingface.
 Install transformers:
 
 ```
-pip install transformers==4.36.0
+pip install transformers==4.40.0
 ```
 
 Inference:
